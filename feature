@@ -1,1 +1,1 @@
-conflic1
+feature2
